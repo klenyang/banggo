@@ -1,0 +1,90 @@
+/*start*/
+.startBox{height:60px;background:#efece8;}
+.start{width:1200px;height:60px;margin:0 auto;}
+.start a{float:left;width:80px;height:60px;border-right:3px solid #fff;}
+.start .start_1{margin-left:200px;background:#fff;}
+/*head*/
+.headBox{height:32px;border-bottom:1px solid #dcdcdc;line-height:32px;color:#999999;}
+.head{width:1200px;height:32px;margin:0 auto;position:relative;}
+.head span{float:left;}
+.head a{float:left;padding:0 10px;height:32px;color:#999999;position:relative;line-height:32px;border-left:1px solid transparent;border-right:1px solid transparent;}
+.head a:hover{color:#000;}
+.head .head_1{margin-left:581px;}
+.head .head_app{background:url('img/appdl.jpg') no-repeat 5px;width:70px;text-indent:12px;}
+/*登录弹窗*/
+.head .login{position:absolute;border:1px solid #dcdcdc;left:770px;top:28px;display:none;z-index:3;background:#fff;}
+.head .login a{color:#000;}
+.head .login a:hover{color:#999999;}
+.head .head_login{border-left:1px solid #dcdcdc;border-right:1px solid #dcdcdc;}
+.head .login span{display:block;position:absolute;top:-1px;width:44px;border-top:1px solid #fff;  }
+/*我的订单*/
+.head .mybg{width:52px;}
+.head .myMessage{position:absolute;border:1px solid #dcdcdc;border-top:none;left:862px;width:72px;top:28px;display:none;z-index:3;background:#fff;}
+.head .myMessage a{color:#000;}
+.head .myMessage a:hover{color:#999999;}
+/*APP下载*/
+.head .appCode{position:absolute;border:1px solid #dcdcdc;left:1006px;top:28px;display:none;z-index:3;background:#fff;height:180px;}
+.head .appCode img{width:160px;height:160px;padding-top:10px;}
+.head .appCode a{color:#000;}
+.head .appCode a:hover{color:#999999;}
+.head .appCode span{display:block;position:absolute;top:-1px;width:90px;;border-top:1px solid #fff;  }
+
+.head .weiCode{position:absolute;left:1086px;top:28px;display:none;z-index:3;background:#fff;height:140px;}
+.head .weiCode img{height:140px;}
+.head .weiCode a{color:#000;}
+.head .weiCode a:hover{color:#999999;}
+.head .weiCode span{display:block;position:absolute;top:-1px;width:90px;;border-top:1px solid #fff;  }
+/*三角形*/
+.triangle-down {
+	position:absolute;
+	top:13px;
+	right:0;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 3px solid #999999;
+}
+/*导航*/
+.navbox{height:119px;border-bottom:3px solid #333333;}
+.nav{width:1200px;height:119px;margin:0 auto;overflow:hidden;position:relative;}
+.nav h1{float:left;}
+.nav .searchBox{width:375px;height:32px;border:3px solid #d51819;float:left;margin-top:22px;}
+.nav .searchBox input{width:338px;height:32px;border:none;float:left;color:#999999;}
+.nav .searchBox button{width:37px;height:32px;border:none;float:left;background:url('img/search.jpg');}
+.nav .hotSearch{margin-top:35px;float:left;color:#eadcea;}
+.nav .hotSearch a{margin:0 11px;color:#666666;}
+.nav .hotSearch a:hover{color:#000;}
+.nav .shoppingBag{width:145px;height:32px;float:right;margin-top:25px;line-height:25px;font-size:14px;background:url('img/gwd.jpg') no-repeat;text-indent:40px;}
+.nav .shoppingBag a{color:#000;}
+.nav .shoppingBag a:hover{color:#666666;}
+/*商品分类*/
+.nav .commodityList{width:93px;height:16px;line-height:16px;font-size:16px;text-indent:29px;font-weight:bold;background:url('img/bg3.jpg') no-repeat;position:absolute;bottom:10px;left:15px;}
+.nav .commodityList a{color:black;}
+.nav .navSub{width:720px;height:43px;position:absolute;bottom:0;left:250px;line-height:53px;}
+.nav .navSub a{float:left;font-size:16px;font-weight:bold;color:#000;margin:0 19px;}
+.nav .bgPhone{position:absolute;bottom:0;right:0;}
+
+.fl{float:left;}
+.fr{float:right;}
+/*侧边栏*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
